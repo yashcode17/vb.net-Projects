@@ -1,0 +1,1 @@
+﻿select adUsername,cu_phone1 from adLodinTable where adUsername="yash" and adPassword="yash888888"
